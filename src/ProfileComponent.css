@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap');
+.pro-container{
+    margin: 0 auto;
+    width: 250px;
+    height: 630px;
+    font-family: 'Prompt', sans-serif;
+    float: left;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    position: sticky;
+    clear: left;
+    top :60px;
+    text-align: center;
+    padding: 5px;
+  }

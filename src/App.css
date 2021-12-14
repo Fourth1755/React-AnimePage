@@ -1,0 +1,8 @@
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+    font-family: 'Prompt', sans-serif;
+    background-color: #DEF8F3;
+  }
