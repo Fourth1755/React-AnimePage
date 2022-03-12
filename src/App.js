@@ -7,14 +7,11 @@ import "./App.css"
 import ProfileComponent from "./ProfileComponent"
 import AddanimeComponent from "./AddanimeComponent"
 import Main1 from './Main1';
-
+import Form from './Form';
 const App=()=> {
   return (
     <div>
-      <Navbaranime/>
-      <ProfileComponent/>
-      <AddanimeComponent/>
-      <Tapper/>
+      <Form/>
     </div>
   );
 }
